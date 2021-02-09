@@ -14,8 +14,6 @@ import { AddcategoryComponent } from './category/addcategory/addcategory.compone
 import { AddproductComponent } from './product/addproduct/addproduct.component';
 import { AdddeliveryComponent } from './delivery/adddelivery/adddelivery.component';
 import { HeaderComponent } from './header/header.component';
-
-// @ts-ignore
 // import { CountdownTimerModule } from 'ngx-countdown-timer-date';
 
 @NgModule({

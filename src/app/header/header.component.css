@@ -20,7 +20,7 @@
 }
 
 .sidebar-navigation {
-  padding: 10px;
+  padding: 0px;
   margin-top: 10px;
   list-style-type: none;
   position: relative;
@@ -55,8 +55,8 @@
 }
 
 .sidebar-navigation li::before {
-  background-color: white;
-  color: darkgreen;
+  background-color: rgba(255, 255, 255, 0.29);
+  /*color: darkgreen;*/
   position: absolute;
   content: '';
   height: 100%;
